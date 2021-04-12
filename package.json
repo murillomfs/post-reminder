@@ -1,0 +1,23 @@
+{
+  "name": "post-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murillomfs/post-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murillomfs/post-reminder/issues"
+  },
+  "homepage": "https://github.com/murillomfs/post-reminder#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
